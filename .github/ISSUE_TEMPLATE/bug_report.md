@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug within the Desk Warden app
+about: Report a bug from the Desk Warden app
 title: ''
 labels: bug
 assignees: ''
